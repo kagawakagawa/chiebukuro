@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# chiebukuro
-=======
+
 # Recommendation-Improved
 推薦システム - 実験 + 再現 + イノベーション
 ## 書籍の読解と再現段階
